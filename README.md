@@ -1,12 +1,8 @@
 <!--Introduction-->
 # 🌸 Hi, I'm Eliza!
 
-
-👩‍💻 Sharing my journey and learnings in Tech<br/>
 🏫 Studying Data science at Victoria University, Australia<br/>
-🌻 Social Media Manager of the Women in Tech VU Club [LinkTree](https://linktr.ee/womenintechvu)<br/>
 🖥️ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/elizatlai/)<br/>
-💭 Currently learning more SQL and Python<br/>
 
 <!--Markdown Badges: https://github.com/Ileriayo/markdown-badges-->
 # 🧰 Languages and Tools
